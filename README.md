@@ -35,7 +35,7 @@ The analysis covers several key areas of the Spotify dataset:
   * **Data Preparation:** Track duration was converted from milliseconds to a more readable **minutes** format (`duration_min`) for analysis.
 
 
- 
+ Link of the dataset : https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 
 
